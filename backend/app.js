@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: true}));
 
 
 //Static
-app.use(express.static(path.join(__dirname, "../backend/public")));
+app.use(express.static(path.join(__dirname, "public")));
 
 //Configuración de Plantilla
 app.set('view engine', 'ejs')
