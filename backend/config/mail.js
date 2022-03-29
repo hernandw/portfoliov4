@@ -1,4 +1,4 @@
-const nodemailer = require('nodemailer');
+/* const nodemailer = require('nodemailer');
 require('dotenv').config()
 
 const transporter = nodemailer.createTransport({
@@ -17,4 +17,4 @@ module.exports = transporter;
 
 transporter.verify().then(() =>{
     console.log('Ready for send emails');
-});
+}); */
