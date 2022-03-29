@@ -1,0 +1,38 @@
+{
+    "profile": {
+"rol": "Full Stack Javascript Developer",
+"description": "<p>My name is Williams, I'm a Full Stack Javascript developer.</p><p>I'm passionate about new technologies. For more than 15 years I've been dedicated to the training of educators and students. I love challenges, I've assumed leadership positions, teamwork, problem solving.</p><p>Teaching profession, with a specialization in Computer Technologies in Education. I've coordinated teams of more than 64 people, trained more than 3000 students, today education teachers. Developed online courses and training with Moodle. I have become a programmer, because I like to find solutions and automate processes.</p><p>For more than 4 years I have worked in sales, inventory management, customer service. I have implemented and managed a wordpress/woocommerce e-commerce store with more than 20,000 products. Currently I am developing personal projects in Node, React, Express and Postgres.</p>"
+    },
+    "experience":{
+        "first-job-title": "",
+        "first-job-dates":"",
+        "first-job-description": "",
+        "second-job-title": "",
+        "second-job-dates":"",
+        "second-job-description": "",
+        "third-job-title": "",
+        "third-job-dates":"",
+        "third-job-description": "",
+        "fourth-job-title": "",
+        "fourth-job-dates":"",
+        "fourth-job-description": ""
+    },
+    "project": {
+        "first-project-title": "",
+        "first-project-description": "",
+        "button-code": ""
+    },
+    
+    "botones":{
+        "boton-home": "Home",
+        "boton-about": "About me",
+        "boton-history": "History",
+        "boton-portfolio": "Portfolio",
+        "boton-contact": "Contact"
+    },
+    "home":{
+        "saludo": "Hello, my name is",
+        "ser": "And I am",
+        "puesto": "Full Stack Javascript Developer"
+    }
+}

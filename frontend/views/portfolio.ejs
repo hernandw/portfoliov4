@@ -1,0 +1,73 @@
+<%- include('../partials/header') %>
+
+
+<section class="project" id="project">
+  <div class="container">
+    <h2 class="project__title" data-section="botones" data-value="boton-portfolio">Portfolio</h2>
+    <div class="category__list">
+      <button class="button_portfolio" category="all">Todas</button>
+      <button class="button_portfolio" category="react">React</button>
+      <button class="button_portfolio" category="node">Node</button>
+      <button class="button_portfolio" category="postgres">Postgres</button>
+      <button class="button_portfolio" category="sequelize">Sequelize</button>
+      <button class="button_portfolio" category="mysql">Mysql</button>
+      <button class="button_portfolio" category="bootstrap">Bootstrap</button>
+    </div>
+    <div class="project__container">
+    <!-- Inicio del project 1 -->
+        <div class="card project__item" style="width: 20rem"; category="react">
+          <img src="img/contador_clics.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Contador de Clics</h5>
+            <p class="card-text">Proyecto realizado con Component de REACT, UseState para basado en el curso de FreecodeCamp</p>
+          </div>
+                    <div class="boton__container">
+                      <a href="https://github.com/hernandw/contador-de-clics" class="boton uno" target="_blank"><span>Code</span></a>
+                      <a href="https://contador-de-clics.herokuapp.com/" class="boton uno" target="_blank"><span>Demo</span></a>
+          </div>
+        </div>
+        <!-- fin del project 1 --
+         <!-- Inicio del project 2 -->
+         <div class="card project__item" style="width: 20rem;" category="react">
+          <img src="img/testimonio.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Testimonios de FreeCodeCamp</h5>
+            <p class="card-text">Clon de la página de testimonios de FreecodeCamp realizado con componet de REACT</p>
+          </div>
+                    <div class="boton__container">
+                      <a href="https://github.com/hernandw/react-acomponet" class="boton uno" target="_blank"><span>Code</span></a>
+                      <a href="https://testimonios-freecodecamp.herokuapp.com/" class="boton uno" target="_blank"><span>Demo</span></a>
+          </div>
+        </div>
+        <!-- fin del project 2 -->
+         <!-- Inicio del project 3 -->
+         <div class="card project__item" style="width: 20rem;" category="node">
+          <img src="img/projecto1.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Skate Park</h5>
+            <p class="card-text">CRUD de Node con base de datos en postgres. Los usuarios se registran, pueden modificar sus datos o eliminarlos. El administrador puede modificar el nivel de usuarios, que te permite loguearte una vez el usuario sea revisado.</p>
+          </div>
+                    <div class="boton__container">
+                      <a href="https://github.com/hernandw/skatepark" class="boton uno" target="_blank"><span>Code</span></a>
+                      <a href="https://skateparkdeploy.herokuapp.com" class="boton uno" target="_blank"><span>Demo</span></a>
+          </div>
+        </div>
+        <!-- fin del project 3 -->
+         <!-- Inicio del project 4 -->
+         <div class="card project__item" style="width: 20rem;" category="mysql">
+          <img src="img/bsale.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Bsale Test</h5>
+            <p class="card-text">CRUD de Node, se conecta a una BBDD mysql en Heroku. Busqueda de Productos, Filtros por categoria y por precio. Modo Oscuro con JS y CSS</p>
+          </div>
+                    <div class="boton__container">
+                      <a href="https://github.com/hernandw/bsale_test" class="boton uno" target="_blank"><span>Code</span></a>
+                      <a href="https://bsaleshopping.herokuapp.com/" class="boton uno" target="_blank"><span>Demo</span></a>
+                  </div>
+        </div>
+        <!-- fin del project 4 -->
+      </div>
+    </div>
+  </div>
+</section>
+  <%- include('../partials/footer') %>

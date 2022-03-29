@@ -1,0 +1,42 @@
+{
+    "profile": {
+"rol": "Desarrollador Full Stack Javascript",
+"description": "<p>Mi nombre es Williams, soy desarrollador Full Stack Javascript</p><p>Apasionado de las nuevas tecnologías. Desde hace más de 15 años me dedico a la formación de educadores y estudiantes. Me encantan los retos, he asumido puestos de liderazgo, trabajo en equipo, resolución de problemas.</p><p>De profesión Docente, con una especialización en Tecnologías de la Computación en Educación. He coordinado equipos de más de 64 personas, capacitado más de 3000 estudiantes, hoy docentes de educación. Elaborado cursos y capacitaciones en línea con Moodle.   Me he convertido en programador, porque me gustan encontrar soluciones y automatizar procesos.</p><p>Por más de 4 años he trabajado en ventas, manejo de inventarios, atención al cliente.  He implementado y administrado una tienda de comercio electrónico en wordpress/woocommerce con más de 20.000 productos. En la actualidad me encuentro desarrollando proyectos personales en Node, React, Express y Postgres.</p>" 
+    },
+    "experience":{
+        "first-job-company": "Librería Qué Leo Arica",
+        "first-job-title": "Vendedor",
+        "first-job-dates":"Agos 2017 - Sept 2021",
+        "first-job-description": "<p>Implementé ecommerce en WordPress/Woocommerce</p><p>Mantenimiento y administración de ecommerce</p><p>Manejo de caja, reposición e inventario.</p><p>Ventas al detal</p>",
+        "second-job-company": "Zona Educativa Carabobo",
+        "second-job-title": "Sistema de Gestión Escolar",
+        "second-job-dates":"Sept 2015 - Jul 2017",
+        "second-job-description": "<p>Supervisé planteles Escolares del municipio San Diego (64 planteles) para comprobar el ingreso de todos los estudiantes al sistema.</p><p>Orientación en la resolución de problemas de registro.</p> <p>Elaboración de Informes Estadísticos.</p>",
+        "third-job-company": "Universidad de Carabobo",
+        "third-job-title": "Docente",
+        "third-job-dates":"Jul 2003 - Jul 2017",
+        "third-job-description": "<p>Docencia a los futuros profesionales de educación en Ciencias Sociales.</p><p>Coordinador de Tecnologias de Información y Comunicación del Departamento de Ciencias Sociales.</p><p>Docente de Computación Básica</p>",
+        "fourth-job-company": "Liceo Ernesto Che Guevara",
+        "fourth-job-title": "Sub Director",
+        "fourth-job-dates":"Marzo 2008 - Jul 2015",
+        "fourth-job-description": "<p>Encargado de los coordinadores de control de estudio y coordinadores.</p><p>Supervisé a docentes de aula (45 docentes).</p><p>Cumplimiento de metas educativas.</p><p>Informes de Objetivos.</p>"
+    },
+    "project": {
+        "first-project-title": "",
+        "first-project-description": "",
+        "button-code": ""
+    },
+    
+        "botones":{
+            "boton-home": "Inicio",
+            "boton-about": "Sobre mí",
+            "boton-history": "Experiencia",
+            "boton-portfolio": "Proyectos",
+            "boton-contact": "Contacto"
+        },
+        "home":{
+            "saludo": "Hola, me llamo",
+            "ser": "y soy un",
+            "puesto": "Desarrollador Full Stack Javascript"
+        }
+    }
