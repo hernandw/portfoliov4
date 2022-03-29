@@ -30,7 +30,7 @@ exports.contact = (req, res) =>{
     });
 };
 
-/* exports.contactNodeMailer = (req, res) => {
+exports.contactNodeMailer = (req, res) => {
   let mailOptions = {
     from: "Williams Hernández <hernandw@gmail.com>",
     to: "hernandw@gmail.com",
@@ -60,4 +60,4 @@ exports.contact = (req, res) =>{
       res.redirect("/");
     }
   });
-}; */
+};
