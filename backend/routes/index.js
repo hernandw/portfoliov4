@@ -12,6 +12,6 @@ router.get('/portfolio', principalController.portfolio);
 
 router.get('/contact', principalController.contact);
 
-router.post('/contact', principalController.contact);
+router.post('/contact', principalController.contactNodeMailer);
 
 module.exports = router;

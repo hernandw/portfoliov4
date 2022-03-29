@@ -415,3 +415,9 @@ align-items: center;
 .project__item {
   transition: all .4s;
 }
+/* 
+Formulario de Contacto */
+
+.BotonCorreo {
+  margin-top: 10px;
+}
