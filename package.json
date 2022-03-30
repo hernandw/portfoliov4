@@ -6,8 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon backend/app.js",
-    "start": "node backend/index.js",
-    "heroku-postbuild": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "node backend/index.js"
+    
   },
   "keywords": [],
   "author": "Williams Hernandez",
